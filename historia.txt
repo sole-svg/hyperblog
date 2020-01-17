@@ -8,10 +8,15 @@ Experimento 1
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 experimento 1
 >>>>>>> Experimento 1
 =======
+=======
+Experimento 2
+
+>>>>>>> exp 2
 Master 1
 >>>>>>> exp 1
 
