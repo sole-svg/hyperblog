@@ -6,5 +6,9 @@ pero quiere viajar por el mundo!
 
 Master 1
 
+<<<<<<< HEAD
+=======
+experimento 1
+>>>>>>> Experimento 1
 
 y hoy hablaremos de su vida y obra maestra.
