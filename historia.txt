@@ -1,9 +1,10 @@
-Hola! esta es la historia de Valeria Martinez
+Esta es la historia de Freddy Vega
 
-ella tiene 27 años, nacida en Argentina
+Freddy Vega tiene 32 años y nació en Colombia
 
-pero quiere viajar por el mundo! 
+Anita Platzi tiene 41 años y nació en Internet
 
+<<<<<<< HEAD
 Experimento 1
 
 <<<<<<< HEAD
@@ -22,3 +23,6 @@ Master 1
 
 
 y hoy hablaremos de su vida y obra maestra.
+=======
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> ya no se que hice ja
